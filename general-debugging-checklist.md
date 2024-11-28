@@ -1,5 +1,5 @@
 # Debugging Checklist: My mindful approach to technical troubleshooting
-*v1.0.0*
+*v1.0.1*
 
 ## Before I start
 - Get my notebook ready to document observations.
@@ -12,7 +12,7 @@ These are the thoughts or patterns I see myself doing sometimes that show I am m
 
 - **Thinking**: "I'll just try this quick fix..."
 - **Acting**: Making multiple changes at once
-- **Feeling**: too anxious to ask questions
+- **Feeling**: too anxious or confused to ask questions
 - **Acting**: Skipping documentation of my debugging steps
 - **Feeling**: like I need to race to implement a solution and know all the answers
 
@@ -38,7 +38,7 @@ These are the thoughts or patterns I see myself doing sometimes that show I am m
 - If yes, try: a mindful/grounding exercise like a quick bodyscan, box breath with longer exhale for a few minutes
 - Remind myself: "I have time and no one is going to die if I don't get the answer"
 
-## Step 5: Write down up to 3 possible causes
+## Step 5: Write down up to 3 possible causes (5 mins)
 
 - Write down 3 possible causes before investigating any
 For each hypothesis, note:
@@ -48,9 +48,9 @@ For each hypothesis, note:
 
 * if it has been more than 30minutes here, would it be helpful to run what i have so far past someone for help?
 
-## Step 6: Testing
-
-Test one possible cause at a time and:
+## Step 6: Testing (5 - 10 mins*)
+**could be longer if I'm unfamiliar with debugging in the project!*
+*Test one possible cause at a time and:
 - Document each testing step - console.log, dd(), debugger tools
 - Make sure to check browser developer tools along the way at each step (Network, Console, Elements) and note down any logs/errors
 - Review results and assess if this fix has addressed the problem statement.
@@ -58,11 +58,10 @@ Test one possible cause at a time and:
 ## Step 7: Ask for Help (If stuck for >30 mins)
 
 Summarize what I've tried by sharing investigation notes
-Ask specific questions like:
-"Could you review my debugging approach?"
-"Based on my notes, do you think I am on the right track with the possible causes and should keep testing?"
+Ask questions like:
+- "Could you review my debugging approach and help me understand if I am on the right track?"
 If I am being blocked by a technical concept or issue that I don't fully understand, I could ask for help understanding that before proceeding e.g.
-"Could you help me understand [the specific concept]?"
+- "Could you help me understand [the specific concept]?"
 
 
 
