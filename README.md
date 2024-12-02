@@ -7,9 +7,9 @@ Coming from a non-technical background, I can sometimes become overwhelmed and p
 Some of the patterns that I've begun to recognise in myself that show I'm moving into panic mode are:
 - Quickly jumping to conclusions before gathering all the evidence
 - Experiencing stress responses when facing complex technical issues such as headaches, nausea, and insecurity.
-- Often taking a "throw everything at the wall" approach to problem-solving
-- Feeling anxious about not understanding "simple technical concepts" (like how to read the network tab!)
-- Super confusion.
+- Moving from curiosity into taking a "throw everything at the wall" approach to problem-solving
+- Feeling anxious about not understanding "simple technical concepts" (like how to read the network tab in the browser dev tools!)
+- Confusion.
 
 This checklist emerged after a terrible day of going around in circles, being defeated by 'bugs', and feeling down and out on myself. I decided to turn yet another moment of feeling worthless into an opportunity to appreciate that I'm still growing in this tech career - and help myself keep growing here too. I think they call this making lemondade baby!
 
